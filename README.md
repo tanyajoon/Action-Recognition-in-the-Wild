@@ -8,7 +8,7 @@
 1.	Acquire data set  [UCF 101](https://www.crcv.ucf.edu/data/UCF101.php)
 2.	Update the 'dataPath' variable 
 3.	Run the dataset preparation file using python3.
-4.  Now you'll have rames and optical flow coorresponding to each video.
+4.  Now you'll have frames and optical flow corresponding to each video.
 
 
 ## Testing and Training:
