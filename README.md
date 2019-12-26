@@ -13,7 +13,7 @@
 
 ## Testing and Training:
 
-Before executing the testing and training steps please refer to [installation](https://github.com/tanyajoon/UAlberta-Multimedia-Master-Program---Parkinson-Disease-Detection-using-PET-Images/blob/master/Installation.md) guide and install the required modules.
+Before executing the testing and training steps please refer to [installation](https://www.tensorflow.org/install) guide and install the required modules.
 The 2 models (Two Stream and Encoder-Decoder ) can be executed using the files provided under the Models folder.
 ## Two Stream
 After preparing the data, open Model_two_stream file found in the Model folder.
